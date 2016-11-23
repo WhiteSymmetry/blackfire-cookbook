@@ -13,7 +13,7 @@ Requirements
 
 #### cookbooks
 - apt
-- yum
+- yum & dnf
 
 Attributes
 ----------
